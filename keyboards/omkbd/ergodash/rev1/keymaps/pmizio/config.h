@@ -41,8 +41,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // Enable rapid switch from tap to hold, disables double tap hold auto-repeat.
 #define TAPPING_FORCE_HOLD
 
-#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
-
 // #define USE_I2C
 
 /* Select hand configuration */
